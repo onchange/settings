@@ -1,0 +1,7 @@
+escape ^Zz
+startup_message off
+autodetach on
+markkeys h=^b:l=^f:$=^e:^d=^v:^D=^V
+vbell off
+defscrollback 3000
+hardstatus alwayslastline "%w"
